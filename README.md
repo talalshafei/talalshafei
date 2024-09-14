@@ -1,4 +1,4 @@
-# 👾 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talalshafei):
+# 👾 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talal-shafei):
 I’m Talal Shafei, a recent computer engineering graduate with a strong background in software development. I’ve worked across diverse environments, handling both frontend and backend development, mobile applications, and unit testing. I’m passionate about blockchain development, cybersecurity, and algorithmic trading, and I have a keen interest in mathematics and quantum information. Currently, I’m expanding my skills by learning backend development with Rust. Known for my quick learning and calm approach, I am driven by a constant curiosity to explore and master new technologies and concepts.
 
 
