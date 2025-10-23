@@ -1,5 +1,5 @@
 # 👾 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talal-shafei):
-I’m Talal Shafei, a junior software developer with two years of experience in software development. I’ve worked across diverse environments, handling both frontend and backend development, mobile applications, and unit testing. I’m passionate about blockchain development, and algorithmic trading, and I have a keen interest in mathematics and physics. Currently,and I love building side projects and tackling challenges with Go, Rust, C++, and Python. Known for my quick learning and calm approach, I am driven by a constant curiosity to explore and master new technologies and concepts.
+I’m Talal Shafei, a junior software developer with two years of experience in software development. I’ve worked across diverse environments, handling both frontend and backend development, mobile applications, and unit testing. I’m passionate about blockchain development, and algorithmic trading, and I have a keen interest in mathematics and physics. I love building side projects and tackling challenges with Go, Rust, C++, and Python. Known for my quick learning and calm approach, I am driven by a constant curiosity to explore and master new technologies and concepts.
 
 
 # 💻 Tech Stack:
